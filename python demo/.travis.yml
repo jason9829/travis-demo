@@ -1,6 +1,3 @@
 language: python
-python:
-  - "3.8"
-cache: pip
-script:
-  - python test_main.py
+
+script:./test_main.py
