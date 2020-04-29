@@ -1,2 +1,2 @@
 language: python
-script: "./python demo/test_main.py"
+script: python test_main.py
